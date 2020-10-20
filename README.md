@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/70302884/96567593-ec94c580-1301-11eb-835a-7621ed94e6ad.png)
+![image](https://user-images.githubusercontent.com/70302884/96567670-0504e000-1302-11eb-877c-375e23c5f20f.png)
 
 # 흡연구역 포인트 서비스
 
