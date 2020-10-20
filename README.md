@@ -2,9 +2,8 @@
 
 # 흡연구역 포인트
 
-본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
-이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
-- 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
+본 서비스는 흡연구역에서 흡연한 경우, Point 가 적립되며 적립된 Point 을 사용하는 기능입니다. 
+CNA 개발에 요구되는 체크포인트를 만족하기 위하여 분석/설계/구현/운영 전단계를 포함하도록 구성하였습니다. 
 
 
 # Table of contents
