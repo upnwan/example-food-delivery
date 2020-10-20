@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![image](https://user-images.githubusercontent.com/70302884/96567593-ec94c580-1301-11eb-835a-7621ed94e6ad.png)
 
-# 흡연구역 포인트
+# 흡연구역 포인트 서비스
 
 본 서비스는 흡연구역에서 흡연한 경우, Point 가 적립되며 적립된 Point 을 사용하는 기능입니다. 
 CNA 개발에 요구되는 체크포인트를 만족하기 위하여 분석/설계/구현/운영 전단계를 포함하도록 구성하였습니다. 
