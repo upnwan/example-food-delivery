@@ -91,11 +91,11 @@ CNA 개발에 요구되는 체크포인트를 만족하기 위하여 분석/설�
 
 ### 폴리시의 이동과 컨텍스트 매핑 (점선은 Pub/Sub, 실선은 Req/Resp)
 
-![image](https://user-images.githubusercontent.com/487999/79683641-5f938580-8266-11ea-9fdb-4e80ff6642fe.png)
+![image](https://user-images.githubusercontent.com/70302884/96575916-5ade8580-130c-11eb-8b5c-62c791ef3c67.png)
 
 ### 완성된 1차 모형
 
-![image](https://user-images.githubusercontent.com/487999/79683646-63bfa300-8266-11ea-9bc5-c0b650507ac8.png)
+![image](https://user-images.githubusercontent.com/70302884/96576148-b4df4b00-130c-11eb-859b-b7bd7a8648cd.png)
 
     - View Model 추가
 
